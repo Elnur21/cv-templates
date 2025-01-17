@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    background-color: #EFF1F7;
+    height: 800px;
+
+}
+.strightLine{
+    height: 2px;
+    width: 50px;
+}
+.WhatCanIDo, .blog .col-6{
+    background-color: blue;
+}
+.resume{
+    background-color: #EFF1F7;
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+.leftSide{
+    height: 800px;
+    overflow-y: auto;
+    position: fixed;
+    z-index: 1;
+}
+.blog .row{
+    grid-gap: 10px;
+}
